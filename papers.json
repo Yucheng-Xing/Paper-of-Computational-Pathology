@@ -20,13 +20,13 @@
     "url": "https://proceedings.neurips.cc/paper/2021/file/10c272d06794d3e5785d5e7c5356e9ff-Paper.pdf"
   },
   {
-  "title": "Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning",
-  "authors": "Shao, Runevic, Chen, Williamson, Kim, Song, Mahmood",
-  "venue": "ICLR",
-  "year": 2026,
-  "topics": ["Multiple Instance Learning"],
-  "url": "https://openreview.net/forum?id=TODO"
-},
+    "title": "Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning",
+    "authors": "Shao, Runevic, Chen, Williamson, Kim, Song, Mahmood",
+    "venue": "ICLR",
+    "year": 2026,
+    "topics": ["Multiple Instance Learning"],
+    "url": "https://openreview.net/forum?id=TODO"
+  },
   {
     "title": "Hepatitis C transmission and progression among people who have injected drugs in Singapore: Modelling treatment for eradication",
     "authors": "He Yichen",
@@ -39,5 +39,29 @@
       "Representation Learning"
     ],
     "url": "https://www.medrxiv.org/content/10.1101/2025.10.24.25338708v1.full-text"
+  },
+  {
+    "title": "Do Multiple Instance Learning Models Transfer?",
+    "authors": "Shao, Chen, Song, Runevic, Lu, Ding, Mahmood",
+    "venue": "ICML",
+    "year": 2025,
+    "topics": ["Multiple Instance Learning"],
+    "url": "https://openreview.net/forum?id=hfLqdquVt3"
+  },
+  {
+    "title": "Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction",
+    "authors": "Liu, Ji, Ye, Fu",
+    "venue": "arXiv",
+    "year": 2025,
+    "topics": ["Multiple Instance Learning"],
+    "url": "https://arxiv.org/pdf/2508.13482"
+  },
+  {
+    "title": "Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis",
+    "authors": "Liu, Zeng, Ma, Xing, Ren, Liu",
+    "venue": "arXiv",
+    "year": 2026,
+    "topics": ["Multiple Instance Learning"],
+    "url": "https://arxiv.org/pdf/2603.10526"
   }
 ]
