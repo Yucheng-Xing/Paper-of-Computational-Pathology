@@ -59,7 +59,7 @@
   {
     "title": "Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis",
     "authors": "Liu, Zeng, Ma, Xing, Ren, Liu",
-    "venue": "arXiv",
+    "venue": "CVPR",
     "year": 2026,
     "topics": ["Multiple Instance Learning"],
     "url": "https://arxiv.org/pdf/2603.10526"
