@@ -26,5 +26,18 @@
   "year": 2026,
   "topics": ["Multiple Instance Learning"],
   "url": "https://openreview.net/forum?id=TODO"
-}
+},
+  {
+    "title": "Hepatitis C transmission and progression among people who have injected drugs in Singapore: Modelling treatment for eradication",
+    "authors": "He Yichen",
+    "venue": "arXiv",
+    "year": 2025,
+    "topics": [
+      "Mutiple Instance Learning",
+      "Multimodal",
+      "Survival Prediction",
+      "Representation Learning"
+    ],
+    "url": "https://www.medrxiv.org/content/10.1101/2025.10.24.25338708v1.full-text"
+  }
 ]
