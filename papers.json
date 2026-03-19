@@ -63,5 +63,68 @@
     "year": 2026,
     "topics": ["Multiple Instance Learning"],
     "url": "https://arxiv.org/pdf/2603.10526"
+  },
+  {
+    "title": "Integrating Spatial Gene Expression and Breast Tumour Morphology via Deep Learning (ST-Net)",
+    "authors": "He, Levy-Jurgenson, et al.",
+    "venue": "Nature Biomedical Engineering",
+    "year": 2020,
+    "topics": ["Spatial Transcriptomics"],
+    "url": "https://doi.org/10.1038/s41551-020-0578-x",
+    "note": "Pioneer: patch→gene expression prediction from H&E"
+  },
+  {
+    "title": "HEST-1k: A Dataset for Spatial Transcriptomics and Histology Image Analysis",
+    "authors": "Jaume, Doucet, Song, Lu, et al. (Mahmood Lab)",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "topics": ["Spatial Transcriptomics"],
+    "url": "https://arxiv.org/abs/2406.16192",
+    "note": "1,229 paired ST+WSI samples, 26 organs, HEST-Benchmark"
+  },
+  {
+    "title": "Survival Analysis via Pretrained Hypergraph Model of Spatial Transcriptomics (MHNN-surv)",
+    "authors": "Li, et al.",
+    "venue": "MICCAI",
+    "year": 2024,
+    "topics": ["Spatial Transcriptomics"],
+    "url": "https://papers.miccai.org/miccai-2024/746-Paper4136.html",
+    "note": "Predicts 69 genes from H&E, builds hypergraph for survival"
+  },
+  {
+    "title": "Towards Spatial Transcriptomics-driven Pathology Foundation Models (SEAL)",
+    "authors": "Hemker, Almagro-Pérez, Song, et al. (Mahmood Lab)",
+    "venue": "ICLR",
+    "year": 2026,
+    "topics": ["Spatial Transcriptomics"],
+    "url": "https://arxiv.org/abs/2602.14177",
+    "note": "ST guides patch encoder via contrastive+reconstruction; inference WSI-only"
+  },
+  {
+    "title": "Prototype-driven Fusion of Pathology and Spatial Transcriptomics for Survival Prediction (PathoSpatial)",
+    "authors": "Liu, et al.",
+    "venue": "arXiv preprint",
+    "year": 2026,
+    "topics": ["Spatial Transcriptomics"],
+    "url": "https://arxiv.org/abs/2602.12441",
+    "note": "WSI+ST multimodal for survival; NEEDS ST at inference"
+  },
+  {
+    "title": "Scalable Generation of Spatial Transcriptomics from Histology via Flow Matching (STFlow)",
+    "authors": "Unknown",
+    "venue": "arXiv preprint",
+    "year": 2025,
+    "topics": ["Spatial Transcriptomics"],
+    "url": "https://arxiv.org/abs/2506.05361",
+    "note": "Generative model for slide-level ST prediction from WSI"
+  },
+  {
+    "title": "Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics (BG-TRIPLEX)",
+    "authors": "Unknown",
+    "venue": "arXiv preprint",
+    "year": 2024,
+    "topics": ["Spatial Transcriptomics"],
+    "url": "https://arxiv.org/abs/2412.04072",
+    "note": "Boundary info guides spot-level gene expression prediction"
   }
 ]
